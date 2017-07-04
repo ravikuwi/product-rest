@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Samsung TV",
+    "description":"Samsung TV Ultra HD",
+    "price": "100",
+    "sku":"SKU01",
+    "ratings":"5"
+  },
+  {
+    "id": "2",
+    "name": "LG TV",
+    "description":"LG TV Ultra HD",
+    "price": "200",
+    "sku":"SKU02" ,
+    "ratings":"5"
+  },
+  {
+    "id": "3",
+    "name": "Sharp TV",
+    "description":"Sharp TV Ultra HD",
+    "price": "300",
+    "sku":"SKU03" ,
+    "ratings":"3"
+  },
+
+  {
+    "id": "4",
+    "name": "Apple TV",
+    "description":"Apple TV Ultra HD",
+    "price": "400",
+    "sku":"SKU04" ,
+    "ratings":"2"
+  },
+  {
+    "id": "5",
+    "name": "Google TV",
+    "description":"Google TV Ultra HD",
+    "price": "500",
+    "sku":"SKU05" ,
+    "ratings":"1"
+  },
+  {
+    "id": "6",
+    "name": "Roku TV",
+    "description":"Roke TV Ultra HD",
+    "price": "550",
+    "sku":"SKU06" ,
+    "ratings":"4"
+  },
+  {
+    "id": "7",
+    "name": "Android TV",
+    "description":"Android TV Ultra HD",
+    "price": "600",
+    "sku":"SKU07" ,
+    "ratings":"2"
+  },
+  {
+    "id": "8",
+    "name": "Windows TV",
+    "description":"Windows TV Ultra HD",
+    "price": "700",
+    "sku":"SKU08" ,
+    "ratings":"1"
+  }
+]

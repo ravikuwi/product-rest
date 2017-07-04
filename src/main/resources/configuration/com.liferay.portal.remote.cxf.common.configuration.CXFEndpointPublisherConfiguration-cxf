@@ -1,0 +1,2 @@
+contextPath=/products
+authVerifierProperties=auth.verifier.PortalSessionAuthVerifier.urls.includes=*
